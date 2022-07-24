@@ -4,7 +4,7 @@
   "description": "back para el proyecto codes-nook",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "json-server db.json  --routes routes.json --port 3003"
   },
   "keywords": [],
   "author": "",
