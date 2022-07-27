@@ -882,6 +882,37 @@
           "rates": 4
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "Weather APP",
+      "level": 2,
+      "description": "In this challenge you have to build an application to consult the weather.",
+      "requeriments": [
+        "Use API OpenWeatherMap",
+        "The data displayed will be current temperature, minimum temperature, maximum temperature and relative humidity"
+      ],
+      "date": "11/07/2022",
+      "solutions": [
+        {
+          "user": "pepe@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "paco@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "dolores@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
     }
   ]
 }
