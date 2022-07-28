@@ -111,20 +111,17 @@
         {
           "user": "pepe@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 3
+          "repository": "https://github.com/"
         },
         {
           "user": "paco@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 5
+          "repository": "https://github.com/"
         },
         {
           "user": "dolores@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 4
+          "repository": "https://github.com/"
         }
       ]
     },
@@ -352,7 +349,7 @@
         "Play the game either solo vs the computer or multiplayer against another person.",
         "View the optimal layout for the game depending on their device's screen size"
       ],
-      "date": "31/07/2022",
+      "date": "10/7/2022",
       "solutions": [
         {
           "user": "pepe@mail.com",
@@ -389,20 +386,17 @@
         {
           "user": "pepe@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 3
+          "repository": "https://github.com/"
         },
         {
           "user": "paco@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 5
+          "repository": "https://github.com/"
         },
         {
           "user": "dolores@mail.com",
           "link": "https://vercel.com/",
-          "repository": "https://github.com/",
-          "rates": 4
+          "repository": "https://github.com/"
         }
       ]
     },
